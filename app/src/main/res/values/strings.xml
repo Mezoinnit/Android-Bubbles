@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BubbleFeature</string>
+    <string name="contact_name">Mezoinnit</string>
+    <string name="contact_handle">@mezoinnit</string>
+    <string name="notification_channel_name">Chat Messages</string>
+    <string name="notification_channel_description">Notifications for incoming chat messages</string>
+    <string name="bubbles_disabled_message">System-level Bubbles are disabled.</string>
+    <string name="enable_settings_button">Enable in Settings</string>
+    <string name="send_message_button">Send Message</string>
+    <string name="close_button">Close</string>
+    <string name="type_message_hint">Type a message...</string>
+    <string name="open_settings">Open Settings</string>
+</resources>
