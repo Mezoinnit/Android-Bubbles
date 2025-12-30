@@ -31,14 +31,6 @@ If you'd like to explore the code or run the app:
 2.  Open in Android Studio (Jellyfish or newer recommended).
 3.  Run on a device or emulator running **API 30+**.
 
-## Roadmap
-
-Planned features and improvements:
-- [ ] **Data Persistence:** Moving from in-memory StateFlow to Room database.
-- [ ] **Custom Avatars:** Support for dynamic profile pictures in bubbles.
-- [ ] **Rich Media:** Sending images or stickers through the bubble interface.
-- [ ] **Unit Testing:** Increasing coverage for Data and Presentation layers.
-
 ### Quick Commands
 ```bash
 # Build the project
